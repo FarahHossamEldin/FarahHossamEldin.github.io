@@ -1,16 +1,13 @@
 # 👋 Hi, I'm Farah Hossam
 
-### Aspiring Data Scientist | Python | SQL | Power BI
+### Data Science | Python | SQL | Power BI
 
 <p align="center">
   <a href="https://farahhossameldin.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-181717?style=for-the-badge&logo=githubpages" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-181717?style=for-the-badge&logo=github" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/farahhossam/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/FarahHossamEldin">
-    <img src="https://img.shields.io/badge/GitHub-View_Projects-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
 
@@ -18,15 +15,13 @@
 
 ## 👩‍💻 About Me
 
-I'm an aspiring Data Scientist with a background in Architectural Engineering and Landscape Architecture, currently developing my expertise in Data Science through hands-on projects and the Digital Egypt Pioneers Initiative (DEPI).
+I'm an aspiring Data Scientist with a background in Architecture and BIM, applying my analytical thinking and problem-solving skills to the field of Data Science.
 
-My engineering background has strengthened my analytical thinking, attention to detail, and structured problem-solving skills. I'm applying these strengths to explore data, uncover patterns, and generate insights that support better decision-making.
+I work with **Python, SQL, Power BI, and data analysis tools** to clean, explore, analyze, and extract insights from data.
 
-I work with **Python, Pandas, NumPy, SQL, and data visualization tools** to clean, analyze, and interpret data. I'm also developing my skills in **Machine Learning and Predictive Analytics**.
+I'm particularly interested in **Machine Learning, Predictive Analytics, and building practical data solutions** that turn complex datasets into meaningful insights.
 
-I'm particularly interested in solving real-world problems through data-driven approaches and transforming complex datasets into clear, actionable insights.
-
-> 🎯 My goal is to build practical data solutions that help businesses make informed decisions and create meaningful impact.
+> 🎯 My goal is to build data-driven solutions that create measurable value for businesses.
 
 ---
 
@@ -44,18 +39,24 @@ I'm particularly interested in solving real-world problems through data-driven a
 ### 📊 Data Visualization & Business Intelligence
 
 <p>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge" alt="Power Query">
+  <img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge" alt="DAX">
 </p>
 
-### 🤖 Machine Learning & Development Tools
+### 🤖 Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab">
+</p>
+
+### 💻 Development Tools & Environment
+
+<p>
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
@@ -63,11 +64,11 @@ I'm particularly interested in solving real-world problems through data-driven a
 
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
-- Data Aggregation & SQL Queries
-- Statistical Analysis Fundamentals
-- Data Visualization & Reporting
-- ETL Fundamentals
-- Machine Learning Fundamentals
+- ETL Processes
+- Data Visualization
+- Machine Learning & Predictive Analytics
+- Machine Learning Operations (MLOps)
+- Data Modeling
 
 ---
 
@@ -77,30 +78,32 @@ I'm particularly interested in solving real-world problems through data-driven a
 
 An exploratory data analysis project comparing Tesla and GameStop stock performance and historical revenue trends.
 
-**Key Activities:**
-- Retrieved historical stock data using Python.
-- Collected and prepared company revenue data.
+**What I Worked On:**
+
+- Collected historical stock data using Python.
+- Extracted and prepared company revenue data.
 - Cleaned and transformed datasets for analysis.
 - Compared stock performance and revenue trends.
-- Built interactive visualizations and a Streamlit application to present findings.
+- Built interactive visualizations and a Streamlit application to present the findings.
 
 **Tools:** `Python` `Pandas` `yfinance` `Web Scraping` `Plotly` `Streamlit`
 
-🔗 **[Explore the Project on GitHub](https://github.com/FarahHossamEldin/Project-Stock-Performance-Revenue-Analysis-Tesla-vs-GameStop)**
+🔗 [View Project on GitHub](https://github.com/FarahHossamEldin/Project-Stock-Performance-Revenue-Analysis-Tesla-vs-GameStop)
 
-🌐 **[Visit My Portfolio](https://farahhossameldin.github.io/)**
+🌐 [View My Portfolio](https://farahhossameldin.github.io/)
 
 ---
 
 ### 🚲 City Bike-Sharing Data Analysis — Team Project
 
-Collaborated with a team on a data analysis project investigating bike-sharing usage patterns, rider behavior, trip durations, and the relationship between weather conditions and daily demand.
+Collaborated with a team on a data analysis project exploring bike-sharing trip patterns, rider behavior, and the relationship between weather conditions and daily demand.
 
 **Project Focus:**
+
 - Querying and aggregating trip data using SQL.
 - Comparing member and casual rider behavior.
 - Analyzing trip durations and daily ride patterns.
-- Exploring differences in bike usage across weather conditions.
+- Exploring bike usage across different weather conditions.
 
 **Tools:** `SQL` `SQLite` `Python` `Google Colab`
 
@@ -112,20 +115,11 @@ Collaborated with a team on a data analysis project investigating bike-sharing u
 
 - Machine Learning & Predictive Modeling
 - Feature Engineering
-- Model Evaluation
+- Model Evaluation & Optimization
 - Statistical Analysis
 - Data Modeling & ETL
 - End-to-End Data Science Projects
 - Interactive Data Applications
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarahHossamEldin&show_icons=true&theme=default&hide_border=true" height="170" alt="Farah's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarahHossamEldin&layout=compact&hide_border=true&theme=default" height="170" alt="Most Used Languages">
-</p>
 
 ---
 
@@ -135,13 +129,13 @@ I'm open to learning opportunities, collaborative projects, and opportunities to
 
 <p align="center">
   <a href="https://farahhossameldin.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-181717?style=for-the-badge&logo=githubpages" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-181717?style=for-the-badge&logo=github" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/farahhossam/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/FarahHossamEldin">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Visit_My_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
@@ -151,7 +145,7 @@ I'm open to learning opportunities, collaborative projects, and opportunities to
 
 > **Driven by curiosity. Powered by data. Focused on impact.**
 
-I believe Data Science is not just about analyzing numbers. It's about asking the right questions, discovering meaningful patterns, and turning data into practical insights that support better decisions.
+I believe Data Science is not just about analyzing numbers — it's about asking the right questions, discovering meaningful patterns, and turning data into practical insights that help people make better decisions.
 
 ---
 
