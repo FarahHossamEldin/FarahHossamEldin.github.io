@@ -457,3 +457,10 @@ footer p {
         padding-bottom: 30px;
     }
 }
+.project-cover {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  height: auto;
+  object-fit: contain;
+}
