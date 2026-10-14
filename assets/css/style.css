@@ -539,6 +539,35 @@ footer p {
         padding: 30px 0;
     }
 }
+.project-tools {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 22px;
+}
+
+.project-tools span {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    padding: 5px 14px;
+    font-size: 0.85rem;
+    font-weight: 700;
+    letter-spacing: 0.3px;
+    color: var(--primary-color);
+    background: rgba(41, 182, 246, 0.12);
+    border: 1px solid rgba(41, 182, 246, 0.35);
+    border-radius: 999px;
+    line-height: 1.4;
+}
+
+.project-tools span::before {
+    content: '';
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--accent-color);
+}
 /* Skills section fix for mobile */
 @media (max-width: 768px) {
     #skills .skills-table {
