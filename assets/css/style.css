@@ -542,18 +542,18 @@ footer p {
 .project-tools {
     display: flex;
     flex-wrap: wrap;
-    gap: 8px;
+    gap: 6px;
     margin-bottom: 22px;
 }
 
 .project-tools span {
     display: inline-flex;
     align-items: center;
-    gap: 7px;
-    padding: 5px 14px;
-    font-size: 0.85rem;
+    gap: 5px;
+    padding: 3px 9px;
+    font-size: 0.76rem;
     font-weight: 700;
-    letter-spacing: 0.3px;
+    letter-spacing: 0.2px;
     color: var(--primary-color);
     background: rgba(41, 182, 246, 0.12);
     border: 1px solid rgba(41, 182, 246, 0.35);
@@ -563,8 +563,8 @@ footer p {
 
 .project-tools span::before {
     content: '';
-    width: 6px;
-    height: 6px;
+    width: 5px;
+    height: 5px;
     border-radius: 50%;
     background: var(--accent-color);
 }
